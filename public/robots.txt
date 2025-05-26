@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ashokdev.github.io/chess-ai/sitemap.xml
-
+Sitemap: https://gudipudiashok.github.io/chess/sitemap.xml
